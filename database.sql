@@ -1,3 +1,5 @@
+require_once __DIR__ . '/db.php';
+
 CREATE DATABASE IF NOT EXISTS merbless_db
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;
